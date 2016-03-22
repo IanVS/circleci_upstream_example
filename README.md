@@ -1,2 +1,2 @@
-# circleci_upstream_example
+# circleci-example-upstream
 Demonstration of downstream CI builds with CircleCI
